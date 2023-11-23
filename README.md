@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pramitray28@gmail.com**
 
+- I have worked as a Data Science and Business Analytics intern at The Sparks Foundation and an artificial intelligence intern at codeclause.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pramit-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramit-ray" height="30" width="40" /></a>
