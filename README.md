@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit Ray</h1>
-<h3 align="center">An aspiring Data Analyst | Data Scientist | ML Engineer having 2+ years experience in Python, Excel, Power BI</h3>
+<h3 align="center">Data Science enthusiast with good fundamentals in tools such as Python, SQL, Tableau, Power BI, MS-Excel. Demonstrated proficiency in Python for data analysis and machine learning, Tableau and PowerBI for building interactive visualization dashboards.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramit2021&label=Profile%20views&color=0e75b6&style=flat" alt="pramit2021" /> </p>
 
