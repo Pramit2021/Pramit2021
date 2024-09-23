@@ -15,7 +15,7 @@
 
 🌱 Currently looking for Data Science job opportunities.   
 
-📫 Reach me at [pramitray28@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/pramit-ray/).
+📫 Reach me at [pramitray28@gmail.com] 
 
 
 <h3 align="left">Connect with me:</h3>
