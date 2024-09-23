@@ -5,13 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramit2021" alt="pramit2021" /></a> </p>
 
-- 🌱 I’m currently learning **SQL**
+# Hi, I'm Pramit Ray 👋
 
-- 👯 I’m looking to collaborate on **Data Analysis and machine learning projects.**
+🎓 BTech in Electrical and Electronics Engineering.
 
-- 📫 How to reach me **pramitray28@gmail.com**
+💼 Data Analyst Intern at Enexperts Consulting Group.  
 
-- 📄 I have worked as a Data Science and Business Analytics intern at The Sparks Foundation and an artificial intelligence intern at codeclause.
+📊 Aspiring Data Analyst with experience in Python, Power BI, MySQL, and Tableau.
+
+🌱 Currently looking for Data Science job opportunities.   
+
+📫 Reach me at [pramitray28@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/pramit-ray/).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
